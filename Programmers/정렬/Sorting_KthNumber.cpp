@@ -1,4 +1,4 @@
-//����_K��° ��
+//프로그래머스_코딩테스트연습_정렬_K번째수
 //URL: https://programmers.co.kr/learn/courses/30/lessons/42748
 
 #include <vector>
