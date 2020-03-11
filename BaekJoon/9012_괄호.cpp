@@ -4,7 +4,6 @@
 using namespace std;
 
 vector<string> str;
-
 void isVps(vector<string> para) {
 	for (size_t i = 0; i < para.size(); ++i) {
 		stack<char> s;

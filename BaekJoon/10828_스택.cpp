@@ -26,6 +26,7 @@ void match(string para) {
 		else cout << s.top() << endl;
 	}
 }
+
 int main() {
 	int N;
 	cin >> N;

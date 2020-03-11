@@ -29,6 +29,7 @@ void match(string para) {
 		else cout << q.back() << endl;
 	}
 }
+
 int main() {
 	int N;
 	cin >> N;
