@@ -42,7 +42,7 @@ bool isUnique_bitset(const string &str) {
 
 ```c++
 int main() {
-    cout<<"<isUnique_bitset>"<<endl;
+    cout<<"<isUnique :: bitset>"<<endl;
     string words[3] = {"apple", "mango", "kiwi"};
     for(auto word : words) {
         cout<<"input : "<<word<<endl;
@@ -58,7 +58,7 @@ int main() {
 ## 3. result
 
 ```
-<isUnique_bitset>
+<isUnique :: bitset>
 input : apple
 result : duplication exist
 

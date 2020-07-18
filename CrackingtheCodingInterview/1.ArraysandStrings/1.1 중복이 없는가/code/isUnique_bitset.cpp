@@ -13,7 +13,7 @@ bool isUnique_bitset(const string &str) {
 }
 
 int main() {
-    cout<<"<isUnique_bitset>"<<endl;
+    cout<<"<isUnique :: bitset>"<<endl;
     string words[3] = {"apple", "mango", "kiwi"};
     for(auto word : words) {
         cout<<"input : "<<word<<endl;
