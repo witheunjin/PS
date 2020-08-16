@@ -45,4 +45,7 @@
 |Programmers|**DFS**|**네트워크**|2020.05.02|2|
 |LeetCode|**brute-force**|**Two Sum**|2020.06.21|3|
 |LeetCode|**brute-force**|**Palindrom Number**|2020.06.27|2|
-|Programmers|****|****|||
+|BaekJoon|**1152**|**단어의 개수**|2020.08.15|무한|
+|BaekJoon|**2908**|**상수**|2020.08.16|2|
+|BaekJoon|**5622**|**다이얼**|2020.08.16|2|
+|BaekJoon|**1316**|**그룹단어체커**|2020.08.16|3|
